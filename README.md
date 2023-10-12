@@ -1,1 +1,6 @@
-# IpList_and_PortList_Classes# IpList_and_PortList_Classes
+# Классы IpList и PortList
+Имеют в себе:
+1. Валидацию при создании.
+2. Валидацию при добавлении.
+3. Логирование при непрохождении валидации.
+4. Реализацию dunder методов (str, repr).
